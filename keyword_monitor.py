@@ -4,7 +4,6 @@ import time
 import webbrowser
 import smtplib 
 from termcolor import colored
-import email 
 from email.mime.text import MIMEText
 from config import RSS_URL, KEYWORDS, IGNORE_LIST, MONITOR_INTERVALS, MAIL_ACCOUNT_ADDRESS, MAIL_ACCOUNT_PASSWORD, SOURCE_MAIL
 
